@@ -53,7 +53,9 @@ welcome();
 
   //Answer Here
 
-
+/* The arguments are values passed into a function call,
+ and parameters are variables defined in the function to receive them.
+*/
 //////////////////PROBLEM 5////////////////////
 
 
@@ -63,7 +65,7 @@ welcome();
 
   //Answer Here
 
-// the falsy values is [0, '', NON, undefined, false, null]
+// the falsy values is [0, '', NaN, undefined, false, null]
 
 //////////////////PROBLEM 6////////////////////
 
